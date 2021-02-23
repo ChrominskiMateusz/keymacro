@@ -1,0 +1,1 @@
+pythonw "PATH TO main.pyw, eg.: C:\projects\keymacro\main.pyw"
